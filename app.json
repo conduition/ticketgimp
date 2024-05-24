@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ticketgimp",
+    "slug": "ticketgimp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#080c18"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#080c18"
+      },
+      "package": "com.anonymous.ticketgimp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
